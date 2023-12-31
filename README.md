@@ -55,7 +55,9 @@ In 2022, OpenAI's ChatGPT revolutionized digital communication by introducing hu
    using Yarn:
      yarn dev
 
-## 🎬 Demo
-![demo](https://github.com/MeftohuAhmed/GrammarlyX/assets/91487090/281d9500-b825-4005-b965-fc83eb63392f)
+<details>
+  <summary>🎬 Demo</summary>
 
+  ![demo](https://github.com/MeftohuAhmed/GrammarlyX/assets/91487090/281d9500-b825-4005-b965-fc83eb63392f)
+</details>
 
